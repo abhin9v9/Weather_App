@@ -2,7 +2,8 @@
 
 A real-time weather monitoring dashboard that tracks and analyzes weather data across major Indian metropolitan cities. Built with React, Chart.js, and the OpenWeatherMap API.
 
-![Weather Dashboard](https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?auto=format&fit=crop&q=80&w=1200&h=400)
+![plot](./img/1.png)
+![plot](./img/2.png)
 
 ## Features
 
